@@ -1,0 +1,5 @@
+streamlit>=1.44.0
+pandas>=2.2.3
+cohere>=5.14.0
+matplotlib>=3.10.1
+sqlparse>=0.5.3
